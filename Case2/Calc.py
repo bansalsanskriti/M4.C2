@@ -12,3 +12,11 @@ def subs(x,y):
     return x-y
 
 print(a,"-",b,"=", subs(a,b))
+
+#adding multiplication
+
+def mul(x,y):
+    return x*y
+
+print("Multiply is ", mul(a,b))
+
