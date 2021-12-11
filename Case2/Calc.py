@@ -20,3 +20,10 @@ def mul(x,y):
 
 print("Multiply is ", mul(a,b))
 
+#adding division
+
+def div(x,y):
+    return x/y
+
+print("Division is ", div(a,b))
+
